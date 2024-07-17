@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "E-Commerce",
+    "description": "E-Commerce RestAPI",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "TypeScript"
+      },
+      {
+        "id": 2,
+        "techname": "Express"
+      },
+      {
+        "id": 3,
+        "techname": "Mongoose"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/E-Commerce-API-Project"
+  },
+  {
+    "id": 2,
+    "name": "Memory Game",
+    "description": "Fun to play memory game",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "Reactjs"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/REACTPROJECTS/tree/main/ReactjsMemoryGame"
+  },
+  {
+    "id": 3,
+    "name": "Gemini-Clone",
+    "description": "Gemini like chat interface Clone using free API of gemini AI.",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "Reactjs"
+      },
+      {
+        "id": 2,
+        "techname": "Redux-Toolkit"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/REACTPROJECTS/tree/main/ReactjsGeminiAIClone"
+  },
+  {
+    "id": 4,
+    "name": "Anime Gifs Download",
+    "description": "Create a Anime funny Gifs.",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "Reactjs"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/REACTPROJECTS/tree/main/AnimeGifReact"
+  },
+  {
+    "id": 5,
+    "name": "Music Player",
+    "description": "Music Player using pure Javascript",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "Javascript"
+      },
+      {
+        "id": 2,
+        "techname": "HTML"
+      },
+      {
+        "id": 3,
+        "techname": "CSS"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/Javascript-projects/tree/main/MusicPlayer"
+  },
+  {
+    "id": 6,
+    "name": "Live Crpto Price",
+    "description": "Show Live Crpto Price using API's",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "Javascript"
+      },
+      {
+        "id": 2,
+        "techname": "HTML"
+      },
+      {
+        "id": 3,
+        "techname": "CSS"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/Javascript-projects/tree/main/crypto-live-price"
+  },
+  {
+    "id": 7,
+    "name": "25+ Javascript Projects",
+    "description": "More Project's on javascript..........",
+    "tech": [
+      {
+        "id": 1,
+        "techname": "Javascript"
+      },
+      {
+        "id": 2,
+        "techname": "HTML"
+      },
+      {
+        "id": 3,
+        "techname": "CSS"
+      }
+    ],
+    "Link": "https://github.com/kunal-fushiguro/Javascript-projects/tree/main/Js-Projects-20%2B"
+  }
+]
